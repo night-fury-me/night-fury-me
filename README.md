@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **AI/ML, .NET, react.js**
 
-- 📫 How to reach me? Email at: **karim.redwanul.de@gmail.com**
+- 📫 How to reach me? Email at: **karim.redwanul.de@gmail.com** OR **karim.redwanul@outlook.com**
 
 - 📄 Know about my experiences [https://redwanul.netlify.app/files/CV_Redwanul_Karim.pdf](https://redwanul.netlify.app/files/CV_Redwanul_Karim.pdf)
 
