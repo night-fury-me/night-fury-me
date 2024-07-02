@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Redwanul Karim</h1>
 <h3 align="center">Just another AI/ML enthusiast</h3>
 
-- 👨‍💻 All of my projects are available at [https://redwanul.netlify.app/](https://redwanul.netlify.app/)
+- 👨‍💻 Want to know more about me? check here: [https://redwanul.netlify.app/](https://redwanul.netlify.app/)
 
 - 💬 Ask me about **AI/ML, .NET, react.js**
 
-- 📫 How to reach me **karim.redwanul.de@gmail.com**
+- 📫 How to reach me? Email at: **karim.redwanul.de@gmail.com**
 
 - 📄 Know about my experiences [https://redwanul.netlify.app/files/CV_Redwanul_Karim.pdf](https://redwanul.netlify.app/files/CV_Redwanul_Karim.pdf)
 
