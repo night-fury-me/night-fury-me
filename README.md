@@ -11,35 +11,6 @@
 
 - 📄 Know about my experiences [https://redwanul.netlify.app/files/CV_Redwanul_Karim.pdf](https://redwanul.netlify.app/files/CV_Redwanul_Karim.pdf)
 
-    <style>
-    .tech-card {
-        background-color: #f0f0f0;
-        border-radius: 8px;
-        padding: 20px;
-        margin-bottom: 20px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
-    .tech-card h2 {
-        margin-bottom: 10px;
-    }
-    .tech-card div {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-    }
-    .tech-card a {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        background-color: white;
-        padding: 10px;
-        border-radius: 6px;
-        transition: transform 0.2s ease-in-out;
-    }
-    .tech-card a:hover {
-        transform: translateY(-3px);
-    }
-</style>
 
 <div class="tech-card">
     <h2>Languages</h2>
