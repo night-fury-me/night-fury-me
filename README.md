@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Redwanul Karim</h1>
 <h3 align="center">Just another AI/ML enthusiast</h3>
 
-- 👨‍💻 Want to know more about me? check here: [https://redwanul.netlify.app/](https://redwanul.netlify.app/)
+- 👨‍💻 Want to know more about me? check here: [https://redwanul.de/](https://redwanul.de/)
 
 - 💬 Ask me about **AI/ML, .NET, react.js**
 
