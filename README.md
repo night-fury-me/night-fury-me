@@ -9,7 +9,7 @@
 
 - 📫 How to reach me? Email at: **karim.redwanul.de@gmail.com** | **karim.redwanul@outlook.com**
 
-- 📄 Know about my experiences [https://redwanul.netlify.app/files/CV_Redwanul_Karim.pdf](https://redwanul.netlify.app/files/CV_Redwanul_Karim.pdf)
+- 📄 Know about my experiences [https://redwanul.de/files/CV_Redwanul_Karim.pdf](https://redwanul.de/files/CV_Redwanul_Karim.pdf)
 
 
 <div class="tech-card">
